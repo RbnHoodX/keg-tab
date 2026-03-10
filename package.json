@@ -1,0 +1,14 @@
+{
+  "name": "keg-tab",
+  "version": "1.0.0",
+  "description": "A tap house management system tracking kegs and customer tabs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
